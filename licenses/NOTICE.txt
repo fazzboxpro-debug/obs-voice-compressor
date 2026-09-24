@@ -1,0 +1,10 @@
+Voice Compressor 0.1.4
+GPL-2.0-or-later. See ../LICENSE.
+
+OBS headers: https://github.com/obsproject/obs-studio/tree/32.2.2/libobs
+Original copyright and license notices are preserved in vendor/obs-sdk.
+OBS is separately installed and is not bundled.
+
+Built using Zig 0.14.1: https://ziglang.org/download/0.14.1/zig-x86_64-windows-0.14.1.zip
+Zig source and bundled runtime sources: https://github.com/ziglang/zig/tree/0.14.1
+Runtime license texts accompany this file.
