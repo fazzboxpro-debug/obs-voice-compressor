@@ -1,5 +1,8 @@
 # Voice Compressor 0.1.4
 
+[紹介・使い方はこちら（FAZZBOX Programming）](https://fazzbox-programming.blogspot.com/2026/09/obs-compressor.html)
+
+
 0.1.4では「使い方・ヘルプ」ボタンと各設定のマウス説明を追加しました。
 設定名を初めて使う人向けに変更しましたが、保存済みの設定値は引き継がれます。
 
